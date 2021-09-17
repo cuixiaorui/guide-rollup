@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "rollup": "^2.56.3"
+  },
+  "scripts": {
+    "build": "rollup --config"
+  },
+  "name": "01",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
