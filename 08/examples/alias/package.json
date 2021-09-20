@@ -1,0 +1,12 @@
+{
+  "name": "svgResolver",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "devDependencies": {
+    "rollup": "^2.56.3"
+  }
+}

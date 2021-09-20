@@ -1,0 +1,16 @@
+{
+  "name": "08",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "devDependencies": {
+    "@rollup/plugin-commonjs": "^20.0.0",
+    "@rollup/plugin-node-resolve": "^13.0.4",
+    "remark": "^14.0.1",
+    "remark-html": "^14.0.1",
+    "rollup": "^2.56.3"
+  }
+}
